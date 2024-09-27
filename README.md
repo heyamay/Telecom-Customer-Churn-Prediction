@@ -42,3 +42,11 @@ In this project, using the Telco Customer Churn dataset i have demonstrated an e
 I am a Data Analytics Enthusiast and  Data science practitioner
 
 [Linkedin](https://www.linkedin.com/in/heyamay/)
+
+## Few glimpses of EDA:
+### 1. Data Overview:
+![Data Overview](https://github.com/heyamay/Teelecom-Customer-Churn-Prediction/blob/main/Data%20Overview.jpg)
+> Senior Citizen: A relatively small percentage of customers are senior citizens (16.21%).
+> We observed that the average customer tenure is 32 months, with 75% of customers staying up to 55 months.
+> The average monthly charges for customers are around USD 64.76, with 25% of customers paying more than USD 89.85, , suggesting a significant segment of customers are paying premium rates.
+
