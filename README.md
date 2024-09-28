@@ -101,4 +101,9 @@ In this project, using the Telco Customer Churn dataset i have demonstrated an e
 I am a Data Analytics Enthusiast and  Data science practitioner
 
 [Linkedin](https://www.linkedin.com/in/heyamay/)
+
+Resume content -
+• Developed a customer churn prediction model using Logistic Regression in Python with Scikit-learn, achieving 80% accuracy and outperforming KNN at 75%
+• Conducted data cleaning and processing of over 7,000 customer records using Pandas and NumPy, improving model performance by 15% through feature engineering.
+• Identified 20% higher churn for fiber optic users and 35% higher churn for month-to-month contracts.
   
